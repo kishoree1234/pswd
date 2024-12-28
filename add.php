@@ -1,5 +1,5 @@
 <?php
-$a=45;
+$a=50;
 $b=345;
 echo "addition:$a+$b";
 ?>
